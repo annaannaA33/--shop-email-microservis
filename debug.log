@@ -1,0 +1,10 @@
+{"level":"info","message":"Received GET request to /sendemail with query parameters: {}"}
+{"level":"debug","message":""}
+{"level":"info","message":"Received POST request to /sendemail with query parameters: {\"to\":\"annaanisimovaal@gmail.com\",\"subject\":\"Order Confirmation\",\"text\":\"Thank you for your order!\"}"}
+{"level":"debug","message":""}
+{"level":"info","message":"Received POST request to /sendemail with query parameters: {\"to\":\"annaanisimovaal@gmail.com\",\"subject\":\"Order Confirmation\",\"text\":\"Thank you for your order!\"}"}
+{"level":"debug","message":""}
+{"level":"info","message":"Received POST request to /sendemail with query parameters: {\"to\":\"annaanisimovaal@gmail.com\",\"subject\":\"Order Confirmation\",\"text\":\"Thank you for your order!\"}"}
+{"level":"debug","message":""}
+{"level":"info","message":"Received POST request to /sendemail with query parameters: {\"to\":\"annaanisimovaal@gmail.com\",\"subject\":\"Order Confirmation\",\"text\":\"Thank you for your order!\"}"}
+{"level":"debug","message":""}

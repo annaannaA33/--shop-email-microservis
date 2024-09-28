@@ -1,6 +1,6 @@
 const express = require("express");
 const { sendEmail } = require("./email-controller");
-
+const { logger, setLogLevel } = require("./logger/logger");
 //const bodyParser = require("body-parser");
 const dotenv = require("dotenv");
 const nodemailer = require("nodemailer");
@@ -10,14 +10,21 @@ app.use(express.json());
 //app.use(bodyParser.json());
 //dotenv.config();
 
-app.post("/send-email", async (req, res) => {
+app.post("/sendemail", async (req, res) => {
+    logger.info(
+        `Received POST request to /sendemail with query parameters: ${JSON.stringify(
+            req.body
+        )}`
+    );
     const { to, subject, text } = req.body;
 
     try {
         await sendEmail(to, subject, text);
+        logger.debug();
         res.status(200).send("Email sent successfully!");
     } catch (error) {
         res.status(500).send("Error sending email.");
+        logger.debug();
     }
 });
 
