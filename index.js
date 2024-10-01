@@ -19,9 +19,7 @@ app.post("/sendemail", async (req, res) => {
     logger.debug(`Request body: ${JSON.stringify(req.body)}`);
     const { to, subject, text } = req.body;
     logger.debug(
-        `Extracted email details: to=${to}, subject=${subject}, text=${
-            text.length > 50 ? "..." : text
-        }`
+        `Extracted email details: to=${to}, subject=${subject}, text=${text}`
     );
     try {
         const result = await sendEmail(to, subject, text);
