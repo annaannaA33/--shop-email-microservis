@@ -8,3 +8,10 @@
 {"level":"info","message":"Received POST request to /sendemail with query parameters: {}"}
 {"level":"info","message":"Received POST request to /sendemail with query parameters: {}"}
 {"level":"info","message":"Received POST request to /sendemail with query parameters: {\"to\":\"annaanisimovaal@gmail.com\",\"subject\":\"Order Confirmation\",\"text\":\"Thank you for your order!\"}"}
+{"level":"info","message":"Received POST request to /sendemail with query parameters: {\"to\":\"annaanisimovaal@gmail.com\",\"subject\":\"Order Confirmation\",\"text\":\"Thank you for your order!\"}"}
+{"level":"info","message":"Email sent successfully!"}
+{"level":"info","message":"Received POST request to /sendemail with query parameters: {\"to\":\"annaanisimovaal@gmail.com\",\"subject\":\"Order Confirmation\",\"text\":\"Thank you for your order!\"}"}
+{"level":"info","message":"Email sent successfully!"}
+{"level":"info","message":"Received POST request to /sendemail with query parameters: {\"to\":\"annaanisimovaal@gmail.com\",\"subject\":\"Order Confirmation\",\"text\":\"Thank you for your order!\"}"}
+{"level":"info","message":"Email sent successfully!"}
+{"level":"info","message":"Received POST request to /sendemail with query parameters: {\"to\":22,\"subject\":\"annaansmva@gmail.com\"}"}

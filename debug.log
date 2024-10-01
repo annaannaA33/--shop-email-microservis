@@ -18,3 +18,64 @@
 {"level":"debug","message":""}
 {"level":"info","message":"Received POST request to /sendemail with query parameters: {\"to\":\"annaanisimovaal@gmail.com\",\"subject\":\"Order Confirmation\",\"text\":\"Thank you for your order!\"}"}
 {"level":"debug","message":""}
+{"level":"debug","message":"Loading SMTP settings..."}
+{"level":"debug","message":"SMTP_HOST: smtp.gmail.com"}
+{"level":"debug","message":"SMTP_PORT: 587"}
+{"level":"debug","message":"SENDER_EMAIL: h71307518@gmail.com"}
+{"level":"debug","message":"SENDER_EMAIL_PASS: ogiy eqro prwh ulrk"}
+{"level":"debug","message":"SMTP transporter initialized"}
+{"level":"debug","message":"Loading SMTP settings..."}
+{"level":"debug","message":"SMTP_HOST: smtp.gmail.com"}
+{"level":"debug","message":"SMTP_PORT: 587"}
+{"level":"debug","message":"SENDER_EMAIL: h71307518@gmail.com"}
+{"level":"debug","message":"SENDER_EMAIL_PASS: ogiy eqro prwh ulrk"}
+{"level":"debug","message":"SMTP transporter initialized"}
+{"level":"info","message":"Received POST request to /sendemail with query parameters: {\"to\":\"annaanisimovaal@gmail.com\",\"subject\":\"Order Confirmation\",\"text\":\"Thank you for your order!\"}"}
+{"level":"debug","message":"Request body: {\"to\":\"annaanisimovaal@gmail.com\",\"subject\":\"Order Confirmation\",\"text\":\"Thank you for your order!\"}"}
+{"level":"debug","message":"Extracted email details: to=annaanisimovaal@gmail.com, subject=Order Confirmation, text=Thank you for your order!"}
+{"level":"debug","message":"Starting email sending process..."}
+{"level":"debug","message":"From: \"h71307518@gmail.com\""}
+{"level":"debug","message":"To: annaanisimovaal@gmail.com"}
+{"level":"debug","message":"Subject: Order Confirmation"}
+{"level":"debug","message":"Text: Thank you for your order!"}
+{"level":"debug","message":"Message sent: %s"}
+{"level":"debug","message":"Response status: 250 2.0.0 OK  1727794696 2adb3069b0e04-5398ad48be9sm1411553e87.55 - gsmtp"}
+{"level":"debug","message":"Response code: undefined"}
+{"level":"debug","message":"Response message: undefined"}
+{"level":"debug","message":"Attempting to send email to: annaanisimovaal@gmail.com, Subject: Order Confirmation"}
+{"level":"info","message":"Email sent successfully!"}
+{"level":"info","message":"Received POST request to /sendemail with query parameters: {\"to\":\"annaanisimovaal@gmail.com\",\"subject\":\"Order Confirmation\",\"text\":\"Thank you for your order!\"}"}
+{"level":"debug","message":"Request body: {\"to\":\"annaanisimovaal@gmail.com\",\"subject\":\"Order Confirmation\",\"text\":\"Thank you for your order!\"}"}
+{"level":"debug","message":"Extracted email details: to=annaanisimovaal@gmail.com, subject=Order Confirmation, text=Thank you for your order!"}
+{"level":"debug","message":"Starting email sending process..."}
+{"level":"debug","message":"From: \"h71307518@gmail.com\""}
+{"level":"debug","message":"To: annaanisimovaal@gmail.com"}
+{"level":"debug","message":"Subject: Order Confirmation"}
+{"level":"debug","message":"Text: Thank you for your order!"}
+{"level":"debug","message":"Message sent: %s"}
+{"level":"debug","message":"Response status: 250 2.0.0 OK  1727794750 38308e7fff4ca-2faddf86271sm1526931fa.30 - gsmtp"}
+{"level":"debug","message":"Response code: undefined"}
+{"level":"debug","message":"Response message: undefined"}
+{"level":"debug","message":"Attempting to send email to: annaanisimovaal@gmail.com, Subject: Order Confirmation"}
+{"level":"info","message":"Email sent successfully!"}
+{"level":"info","message":"Received POST request to /sendemail with query parameters: {\"to\":\"annaanisimovaal@gmail.com\",\"subject\":\"Order Confirmation\",\"text\":\"Thank you for your order!\"}"}
+{"level":"debug","message":"Request body: {\"to\":\"annaanisimovaal@gmail.com\",\"subject\":\"Order Confirmation\",\"text\":\"Thank you for your order!\"}"}
+{"level":"debug","message":"Extracted email details: to=annaanisimovaal@gmail.com, subject=Order Confirmation, text=Thank you for your order!"}
+{"level":"debug","message":"Starting email sending process..."}
+{"level":"debug","message":"From: \"h71307518@gmail.com\""}
+{"level":"debug","message":"To: annaanisimovaal@gmail.com"}
+{"level":"debug","message":"Subject: Order Confirmation"}
+{"level":"debug","message":"Text: Thank you for your order!"}
+{"level":"debug","message":"Message sent: %s"}
+{"level":"debug","message":"Response status: 250 2.0.0 OK  1727795157 2adb3069b0e04-53987fb7b65sm1527121e87.167 - gsmtp"}
+{"level":"debug","message":"Response code: undefined"}
+{"level":"debug","message":"Response message: undefined"}
+{"level":"debug","message":"Attempting to send email to: annaanisimovaal@gmail.com, Subject: Order Confirmation"}
+{"level":"info","message":"Email sent successfully!"}
+{"level":"info","message":"Received POST request to /sendemail with query parameters: {\"to\":22,\"subject\":\"annaansmva@gmail.com\"}"}
+{"level":"debug","message":"Loading SMTP settings..."}
+{"level":"debug","message":"SMTP_HOST: smtp.gmail.com"}
+{"level":"debug","message":"SMTP_PORT: 587"}
+{"level":"debug","message":"SENDER_EMAIL: h71307518@gmail.com"}
+{"level":"debug","message":"SENDER_EMAIL_PASS: ogiy eqro prwh ulrk"}
+{"level":"debug","message":"SMTP transporter initialized"}
