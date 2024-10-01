@@ -1,14 +1,13 @@
 const express = require("express");
 const { sendEmail } = require("./email-controller");
 const { logger, setLogLevel } = require("./logger/logger");
-//const bodyParser = require("body-parser");
+//const axios = require("axios");
+
 const dotenv = require("dotenv");
 const nodemailer = require("nodemailer");
 
 const app = express();
 app.use(express.json());
-//app.use(bodyParser.json());
-//dotenv.config();
 
 app.post("/sendemail", async (req, res) => {
     logger.info(
