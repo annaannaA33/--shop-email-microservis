@@ -32,7 +32,7 @@ app.get("/health", (req, res) => {
     res.send({ status: "Email service is up and running" });
 });
 
-const PORT = process.env.PORT || 5000;
+const PORT = process.env.PORT || 10000;
 app.listen(PORT, () => {
     console.log(`Email service running on port ${PORT}`);
 });

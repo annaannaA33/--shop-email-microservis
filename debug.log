@@ -8,3 +8,13 @@
 {"level":"debug","message":""}
 {"level":"info","message":"Received POST request to /sendemail with query parameters: {\"to\":\"annaanisimovaal@gmail.com\",\"subject\":\"Order Confirmation\",\"text\":\"Thank you for your order!\"}"}
 {"level":"debug","message":""}
+{"level":"info","message":"Received POST request to /sendemail with query parameters: {\"to\":\"annaansmva@gmail.com\",\"subject\":\"Order Confirmation\",\"text\":\"Your order with ID 17 has been successfully created. Thank you for shopping with us!\"}"}
+{"level":"debug","message":""}
+{"level":"info","message":"Received POST request to /sendemail with query parameters: {\"to\":\"annaanisimovaal@gmail.com\",\"subject\":\"Order Confirmation\",\"text\":\"Thank you for your order!\"}"}
+{"level":"debug","message":""}
+{"level":"info","message":"Received POST request to /sendemail with query parameters: {}"}
+{"level":"debug","message":""}
+{"level":"info","message":"Received POST request to /sendemail with query parameters: {}"}
+{"level":"debug","message":""}
+{"level":"info","message":"Received POST request to /sendemail with query parameters: {\"to\":\"annaanisimovaal@gmail.com\",\"subject\":\"Order Confirmation\",\"text\":\"Thank you for your order!\"}"}
+{"level":"debug","message":""}
